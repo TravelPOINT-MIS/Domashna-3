@@ -1,2 +1,1 @@
-# Domashna-3
-Документација за апликацијата импелементирана во втората домашна задача
+# <b style="font-size: 130px">RESOURCES ARE SHUT DOWN.</b>
